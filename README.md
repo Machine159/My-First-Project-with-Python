@@ -1,3 +1,3 @@
 # My-First-Project-with-Python
 
-This Hyperskill project showcases basic operations with Python.
+This first Hyperskill project showcases basic operations with Python.
