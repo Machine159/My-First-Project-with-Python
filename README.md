@@ -1,3 +1,3 @@
 # My-First-Project-with-Python
 
-This first Hyperskill project showcases basic operations with Python.
+Practice Python coding to build a program that can automate your account management routine.
